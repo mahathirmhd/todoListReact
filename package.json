@@ -2,7 +2,7 @@
   "name": "todoapp",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://mahathirmhd.github.io/todoListReact",
+  "homepage": "https://mahathirmhd.github.io/todo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
